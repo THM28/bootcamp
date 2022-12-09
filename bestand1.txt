@@ -1,0 +1,1 @@
+['melk', 'water', 'brood', 'kaas', 'eieren', 'chips', 'rijst']
